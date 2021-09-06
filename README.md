@@ -25,11 +25,4 @@ the [X] button once pressed will simply close and stop running Quick Start, the 
 if you think this application may be a thread because its an "unauthorized creator" i will upload the Quick Start python file to the same directory as the Quick Start application,
 there you can safe-check the Quick Start application.
 
-███████╗██╗  ██╗ █████╗ ██╗   ██╗ ██████╗ ██╗    ██╗
-██╔════╝██║  ██║██╔══██╗██║   ██║██╔═══██╗██║    ██║
-███████╗███████║███████║██║   ██║██║   ██║██║ █╗ ██║
-╚════██║██╔══██║██╔══██║╚██╗ ██╔╝██║   ██║██║███╗██║
-███████║██║  ██║██║  ██║ ╚████╔╝ ╚██████╔╝╚███╔███╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝   ╚═════╝  ╚══╝╚══╝ 
-
 
